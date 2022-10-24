@@ -1,4 +1,3 @@
-
 Function HideConsole(){
 		Add-Type -Name Window -Namespace Console -MemberDefinition '
 		[DllImport("Kernel32.dll")]
