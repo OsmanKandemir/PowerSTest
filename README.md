@@ -1,3 +1,3 @@
 # PowerSTest
 
-This Powershell Script Uses on Windows Penetration Tests.
+This Powershell Script Uses in Windows Penetration Tests.
