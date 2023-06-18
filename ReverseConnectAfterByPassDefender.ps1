@@ -1,3 +1,4 @@
+#Blog Post https://osman-kandemir.medium.com/how-to-hack-windows-11-using-powershell-scripts-with-microsoft-edge-over-wide-area-network-d3cf3d86efb5
 
 Function HideConsole(){
 	Add-Type -Name Window -Namespace Console -MemberDefinition '
